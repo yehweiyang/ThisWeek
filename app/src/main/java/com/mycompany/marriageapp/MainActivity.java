@@ -1,6 +1,3 @@
-
-
-
 package com.mycompany.marriageapp;
 
         import android.os.Bundle;
