@@ -1,0 +1,12 @@
+2020/06/01
+1.寫在該解決問題
+2.寫下解決方法，並描述你解決的方式
+3.記錄具體執行上述方法的過程
+
+1.db無法連線問題
+2.call out for help , copy paste
+3.先打給孟儒，打電話給sa 再打給春亨
+
+1.DBUtil出現nullPointException
+2.call out for help ，孟儒線上講解
+3.service.xml未設定category,而且sqlfile未設定要存取localFile，設定好就好了
